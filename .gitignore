@@ -3,5 +3,5 @@ npm-debug.log*
 /dist
 /build
 /release
-/teste/coverage
+/test/coverage
 yarn.lock
